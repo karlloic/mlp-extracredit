@@ -1,0 +1,13 @@
+celery==4.1.0
+click==6.7
+cycler==0.10.0
+Flask==0.12.2
+itsdangerous==0.24
+kombu==4.1.0
+MarkupSafe==1.0
+pyparsing==2.2.0
+python-dateutil==2.6.1
+pytz==2017.3
+six==1.11.0
+vine==1.1.4
+Werkzeug==0.12.2
